@@ -1,4 +1,4 @@
-# JavaXiaobear
+# JavaCharge
 
 #### 介绍
 自己总结的一些Java的一些面试题，包括基础、框架等；助各位找到心仪的offer！！！
