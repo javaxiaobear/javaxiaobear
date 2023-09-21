@@ -1,0 +1,32 @@
+// place your custom styles here
+//加粗样式
+strong {
+  padding: 0 1px;
+  color: #f22f27;
+  font-weight: 600px !important;
+  font-size: 1em;
+}
+
+//
+blockquote {
+  border-radius: 4px!important;
+  margin: 0.5rem 0!important;
+  border-left: 4px solid #42b983!important;
+  padding: 10px 15px!important;
+  color: #4f4f4f !important;
+  letter-spacing: 1px!important;
+  background-color: rgba(66, 185, 131, .1)!important;
+}
+
+.navbar .nav-links {
+  font-size: 1.0rem;
+}
+
+.navbar .site-name {
+  margin-right: 28px;
+}
+
+// 不显示
+.breadcrumb ol {
+  display: none;
+}

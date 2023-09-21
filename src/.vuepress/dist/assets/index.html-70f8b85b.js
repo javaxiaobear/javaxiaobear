@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-66f02c4f","path":"/architecture/distributed/","title":"Distributed","lang":"zh-CN","frontmatter":{"title":"Distributed","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"copyright":{"author":"小熊学Java"}}');export{e as data};

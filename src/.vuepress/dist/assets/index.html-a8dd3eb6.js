@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-38c58751","path":"/study-tutorial/distributed/rabbitmq/","title":"Rabbitmq","lang":"zh-CN","frontmatter":{"title":"Rabbitmq","article":false,"feed":false,"sitemap":false,"seo":false,"head":[]},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"copyright":{"author":"小熊学Java"}}');export{t as data};
