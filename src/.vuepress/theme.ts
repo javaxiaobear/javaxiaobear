@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "https://gitee.com/javaxiaobear/littlebear-learn-java.git",
+  repo: "https://gitee.com/javaxiaobear/javaXiaobear.git",
  // 是否在导航栏内显示仓库链接，默认为 `true`
   repoDisplay: true,
   //
