@@ -19,7 +19,9 @@ blockquote {
 }
 
 .navbar .nav-links {
-  font-size: 1.0rem;
+  font-size: 1.0rem !important;
+  color: #3a5169 !important;
+  font-weight: 600 !important;
 }
 
 .navbar .site-name {
@@ -29,4 +31,8 @@ blockquote {
 // 不显示
 .breadcrumb ol {
   display: none;
+}
+
+.sidebar-heading .title {
+  font-weight: 500 !important;
 }

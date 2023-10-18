@@ -14,8 +14,8 @@ actions:
     link: /architecture/
     type: primary
 
-  - text: 开发必备 🛠️
-    link: /dev-necessary/
+  - text: 学习资料 🛠️
+    link: /dev-necessary/resource/free
     type: default
 
 features:

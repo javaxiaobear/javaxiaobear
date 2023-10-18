@@ -21,6 +21,11 @@ export const zhNavbar = navbar([
         link: "activation/",
       },
       {
+        text: "珍藏资源",
+        icon: "study",
+        link: "resource/",
+      },
+      {
         text: "常见问题",
         icon: "ask",
         link: "problem/",

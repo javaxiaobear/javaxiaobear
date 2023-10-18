@@ -51,7 +51,7 @@ export const zhSidebar = sidebar({
       collapsible: true,
       children: [
         {
-          text: "MySQL",
+          text: "MySQL基础",
           prefix: "mysql/",
           collapsible: true,
           children: [
@@ -97,6 +97,18 @@ export const zhSidebar = sidebar({
             "cookie&session.md",
             "filter.md",
             "json&ajax&i18n.md",
+          ],
+        },
+        {
+          text: "Spring 6",
+          prefix: "spring/",
+          collapsible: true,
+          children: [
+            "overview.md",
+            "getting-started.md",
+            "ioc.md",
+            "handwriting-ioc.md",
+            "aop.md"
           ],
         },
         {
@@ -412,6 +424,7 @@ export const zhSidebar = sidebar({
         "collection/",
         "io/",
         "innerClass/",
+        "enumGeneric/"
       ],
     },
     {
@@ -424,7 +437,8 @@ export const zhSidebar = sidebar({
           "jvm/",
           "multithreading/",
           "concurrency",
-          "designPatterns"
+          "designPatterns",
+          "java-web"
       ],
     },
     {
@@ -564,7 +578,17 @@ export const zhSidebar = sidebar({
       children: [
         "idea.md",
         "navicat.md",
-        "xmind.md"
+        "xmind.md",
+        "typora.md"
+      ],
+    },
+    {
+      icon: "study",
+      text: "珍藏资源",
+      collapsible: true,
+      prefix: "resource/",
+      children: [
+        "free.md",
       ],
     },
     {

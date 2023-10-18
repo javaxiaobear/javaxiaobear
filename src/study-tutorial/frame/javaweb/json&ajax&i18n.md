@@ -353,7 +353,7 @@ dataType : "json"
 });
 ```
 
-> $.get 方法和$.post 方法
+> `$.get `方法和`$.post` 方法
 > url                        请求的url 地址
 > data                     发送的数据
 > callback               成功的回调函数

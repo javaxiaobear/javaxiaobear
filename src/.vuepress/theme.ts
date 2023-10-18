@@ -6,11 +6,10 @@ export default hopeTheme({
 
   author: {
     name: "小熊同学",
-    url: "https://javaxiaobear.cn",
+    url: "http://localhost:8888/about/me.html",
   },
 
   iconAssets: "iconfont",
-  iconPrefix: "iconfont icon-",
 
   logo: "/logo.png",
 
